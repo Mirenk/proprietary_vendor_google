@@ -21,6 +21,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/coral/proprietary/bin/iw:$(TARGET_COPY_OUT_SYSTEM)/bin/iw \
     vendor/google/coral/proprietary/bin/move_time_data.sh:$(TARGET_COPY_OUT_SYSTEM)/bin/move_time_data.sh \
     vendor/google/coral/proprietary/etc/permissions/com.qti.snapdragon.sdk.display.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/com.qti.snapdragon.sdk.display.xml \
+    vendor/google/coral/proprietary/lib/dsp/elmyra.so:$(TARGET_COPY_OUT_SYSTEM)/lib/dsp/elmyra.so \
     vendor/google/coral/proprietary/lib/android.hardware.radio@1.3.so:$(TARGET_COPY_OUT_SYSTEM)/lib/android.hardware.radio@1.3.so \
     vendor/google/coral/proprietary/lib/android.hardware.radio@1.4.so:$(TARGET_COPY_OUT_SYSTEM)/lib/android.hardware.radio@1.4.so \
     vendor/google/coral/proprietary/lib/com.qualcomm.qti.bluetooth_audio@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/com.qualcomm.qti.bluetooth_audio@1.0.so \
